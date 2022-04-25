@@ -2,7 +2,7 @@
 # sci-RNA-seq analysis.
 # Based on https://www.singlecellcourse.org/single-cell-rna-seq-analysis-using-seurat.html
 # The data is from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184602
-# The data was filtetred before published, therefore we will escape the filtering part
+# The data was filtetred before published, therefore we will skip the filtering part
 ############################################################################################
 
 
